@@ -1,0 +1,1098 @@
+{
+  "date": "2026-10-14",
+  "collected_at": "2026-10-15T23:29:40.170160+00:00",
+  "stats": {
+    "total_articles": 135,
+    "sources_success": 22,
+    "sources_failed": 5,
+    "failed_sources": [
+      "naver-fe-news",
+      "import-ai",
+      "thesequence",
+      "geeknews",
+      "yozm-it"
+    ]
+  },
+  "articles": [
+    {
+      "title": "The best way to use icons in Web UIs",
+      "url": "https://frontendfoc.us/issues/762",
+      "source_id": "frontend-focus",
+      "source_name": "Frontend Focus",
+      "category": "frontend",
+      "published": "2026-10-14T00:00:00+00:00"
+    },
+    {
+      "title": "This Week In React #301: TanStack Start, React Aria, Base UI, Satori, Next.js, Vitest RSC, MobX | RN Web, Tamagui, One, Skia, Observe, Screens, Hot Updater, Nano Icons | Deno, Bun, TS, JPEG XL, AsyncContext, Playwright, pnpm, Partytown",
+      "url": "https://thisweekinreact.com/newsletter/301",
+      "source_id": "this-week-in-react",
+      "source_name": "This Week In React",
+      "category": "frontend",
+      "published": "2026-10-14T00:00:00+00:00"
+    },
+    {
+      "title": "Grieving the loss of details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "source_id": "sidebar",
+      "source_name": "Sidebar",
+      "category": "frontend",
+      "published": "2026-10-14T06:28:14+00:00"
+    },
+    {
+      "title": "A flame needs three sine waves",
+      "url": "https://www.carmenansio.com/articles/matchstick-flame-canvas/",
+      "source_id": "sidebar",
+      "source_name": "Sidebar",
+      "category": "frontend",
+      "published": "2026-10-14T06:25:40+00:00"
+    },
+    {
+      "title": "Energy icons",
+      "url": "https://energyicons.com/",
+      "source_id": "sidebar",
+      "source_name": "Sidebar",
+      "category": "frontend",
+      "published": "2026-10-14T06:24:43+00:00"
+    },
+    {
+      "title": "Inside Anthropic’s design team",
+      "url": "https://designerfund.com/blog/ai-design-anthropic",
+      "source_id": "sidebar",
+      "source_name": "Sidebar",
+      "category": "frontend",
+      "published": "2026-10-14T06:24:04+00:00"
+    },
+    {
+      "title": "Anatomy",
+      "url": "https://skills.wheresryan.sh/anatomy",
+      "source_id": "sidebar",
+      "source_name": "Sidebar",
+      "category": "frontend",
+      "published": "2026-10-14T06:22:54+00:00"
+    },
+    {
+      "title": "改めて考える、AIエンジニアリングの今",
+      "url": "https://zenn.dev/r_kaga/articles/2fd185c50cea7c",
+      "source_id": "zenn",
+      "source_name": "Zenn",
+      "category": "frontend",
+      "published": "2026-10-14T23:08:33+00:00"
+    },
+    {
+      "title": "【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた",
+      "url": "https://zenn.dev/subara3/articles/b90ff538d87aa6",
+      "source_id": "zenn",
+      "source_name": "Zenn",
+      "category": "frontend",
+      "published": "2026-10-14T12:21:10+00:00"
+    },
+    {
+      "title": "Gemini 4 Argonの日本語性能を検証してみた",
+      "url": "https://zenn.dev/algoartis/articles/19bb1705ea4b16",
+      "source_id": "zenn",
+      "source_name": "Zenn",
+      "category": "frontend",
+      "published": "2026-10-14T08:22:28+00:00"
+    },
+    {
+      "title": "【備忘録】CSSのstickyで作る、せり上がりながら背景が見える演出",
+      "url": "https://zenn.dev/crayfisher_zari/articles/75619d5860f885",
+      "source_id": "zenn",
+      "source_name": "Zenn",
+      "category": "frontend",
+      "published": "2026-10-14T05:59:58+00:00"
+    },
+    {
+      "title": "開発しながら同じPCでローカルLLMを動かしてみた話",
+      "url": "https://zenn.dev/sumasate_tec/articles/test-local-llm",
+      "source_id": "zenn",
+      "source_name": "Zenn",
+      "category": "frontend",
+      "published": "2026-10-14T01:31:20+00:00"
+    },
+    {
+      "title": "Researchers improve weather forecasts looking two to six weeks out",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "source_id": "mit-news-ai",
+      "source_name": "MIT News AI",
+      "category": "ai",
+      "published": "2026-10-14T11:00:00-04:00"
+    },
+    {
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "source_id": "mit-tech-review",
+      "source_name": "MIT Tech Review",
+      "category": "ai",
+      "published": "2026-10-14T12:10:00+00:00"
+    },
+    {
+      "title": "The US military’s race to make fake blood",
+      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "source_id": "mit-tech-review",
+      "source_name": "MIT Tech Review",
+      "category": "ai",
+      "published": "2026-10-14T09:00:00+00:00"
+    },
+    {
+      "title": "AI can act exactly like a human, but we still don't think it's conscious",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+      "source_id": "sciencedaily-ai",
+      "source_name": "ScienceDaily AI",
+      "category": "ai",
+      "published": "2026-10-14T01:41:55+00:00"
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T23:59:37+00:00"
+    },
+    {
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T22:10:08+00:00"
+    },
+    {
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T21:11:03+00:00"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T20:48:24+00:00"
+    },
+    {
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T20:30:54+00:00"
+    },
+    {
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T20:29:13+00:00"
+    },
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T19:26:30+00:00"
+    },
+    {
+      "title": "Suicide rates highest ever among middle-aged men",
+      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T19:03:58+00:00"
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T18:37:21+00:00"
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T18:32:52+00:00"
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T17:45:23+00:00"
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T16:29:33+00:00"
+    },
+    {
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T16:28:51+00:00"
+    },
+    {
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T16:24:11+00:00"
+    },
+    {
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T16:09:00+00:00"
+    },
+    {
+      "title": "Passkeys are not a trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T15:15:45+00:00"
+    },
+    {
+      "title": "How Amazon pushes up prices all across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T09:28:17+00:00"
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T08:27:59+00:00"
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T06:18:01+00:00"
+    },
+    {
+      "title": "Why is every rationalist blog post way too long?",
+      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T06:02:16+00:00"
+    },
+    {
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "source_id": "hacker-news-best",
+      "source_name": "Hacker News (베스트)",
+      "category": "general",
+      "published": "2026-10-14T04:42:33+00:00"
+    },
+    {
+      "title": "DeepSeek Eyes $400M Robotics AI Startup in New Funding Push",
+      "url": "https://dzone.com/articles/news-deepseek-winverse-robotics-ai-funding-china-apac",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T20:52:03+00:00"
+    },
+    {
+      "title": "Data Governance Is a Security Control, Not a Compliance Checkbox",
+      "url": "https://dzone.com/articles/data-governance-security-control",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T19:00:01+00:00"
+    },
+    {
+      "title": "Going All In On the JVM 25 Virtual Threads",
+      "url": "https://dzone.com/articles/jvm-25-virtual-threads",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T18:00:01+00:00"
+    },
+    {
+      "title": "A Brown-Bag Project: babbler",
+      "url": "https://dzone.com/articles/brown-bag-project-babbler",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T17:00:07+00:00"
+    },
+    {
+      "title": "Azure Key Vault Secrets That Reconcile Themselves in Go, With mamori",
+      "url": "https://dzone.com/articles/azure-key-vault-go-mamori",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T16:00:01+00:00"
+    },
+    {
+      "title": "How to Test PUT, PATCH, and DELETE API Requests Using Playwright TypeScript",
+      "url": "https://dzone.com/articles/playwright-api-request-testing",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T15:00:01+00:00"
+    },
+    {
+      "title": "Rotate AWS Secrets Manager Secrets Without Restarting Your Go Service, With mamori",
+      "url": "https://dzone.com/articles/rotate-aws-secrets-go",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T14:00:06+00:00"
+    },
+    {
+      "title": "AI-Era Cybersecurity, Part 1: Mapping Glasswing, Daybreak, Lightwell and the Tools Racing to Find and Fix Bugs",
+      "url": "https://dzone.com/articles/ai-cybersecurity-bug-fixing",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T13:00:07+00:00"
+    },
+    {
+      "title": "Introducing mamori: Typed, Watchable Config and Secrets for Go",
+      "url": "https://dzone.com/articles/mamori-go-config-secrets",
+      "source_id": "dzone",
+      "source_name": "DZone",
+      "category": "general",
+      "published": "2026-10-14T12:00:04+00:00"
+    },
+    {
+      "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
+      "url": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
+      "source_id": "bytebytego",
+      "source_name": "ByteByteGo",
+      "category": "general",
+      "published": "2026-10-14T15:30:42+00:00"
+    },
+    {
+      "title": "Switch from your AI meeting notetaker and get up to 12 months of Wispr Flow free (Sponsor)",
+      "url": "https://ref.wisprflow.ai/tldr-oct14-primary-headline?sp=COZrKxGhNIxIO0a6Ed2z7zUI",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Claim your free months",
+      "url": "https://ref.wisprflow.ai/tldr-oct14-primary-cta2?sp=COZrKxGhNIxIO0a6Ed2z7zUI",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "See if your plan qualifies",
+      "url": "https://ref.wisprflow.ai/tldr-oct14-primary-cta3?sp=COZrKxGhNIxIO0a6Ed2z7zUI",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Apple Introduces HomeView, a $299 Tablet for the Home (5 minute read)",
+      "url": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html?unlocked_article_code=1.IlE.cQEC.vtkkfVCSfSUv&smid=url-share&utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Google makes Gemini 4 Argon broadly available with limited-time low API pricing of 2/10 per 1M token (17 minute read)",
+      "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "SpaceX Plan to Launch 456 Starships a Year in Texas Under Review (3 minute read)",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-13/spacex-plan-to-launch-456-starships-a-year-in-texas-under-review?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient (5 minute read)",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Is all that AI coding actually worth it? (Sponsor)",
+      "url": "https://www.span.app/get-demo/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=tldr&amp;utm_content=demo",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Try Span free for one month",
+      "url": "https://www.span.app/get-demo/?utm_source=newsletter&utm_medium=email&utm_campaign=tldr&utm_content=demo",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Redesigning source control at Anthropic (23 minute read)",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "How to be more ambitious: A tutorial for humans with models (8 minute read)",
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Were we blue-collar workers all along? (3 minute read)",
+      "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "FBI Arrests OpenAI Employee Accused of Planting Bug in Office (4 minute read)",
+      "url": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html?unlocked_article_code=1.IlE.2dS1.0tjJ0NPwfkW5&smid=url-share&utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Inside the architecture linking two data centers into the highest-performing distributed GPU supercluster (Sponsor)",
+      "url": "https://www.whitefiber.com/insights/scaling-ai-infrastructure-beyond-a-single-site?utm_source=tldr&amp;utm_medium=newsletter&amp;utm_campaign=mofu_continuum-whitepaper&amp;utm_content=cta-1",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Get the whitepaper",
+      "url": "https://www.whitefiber.com/insights/scaling-ai-infrastructure-beyond-a-single-site?utm_source=tldr&utm_medium=newsletter&utm_campaign=mofu_continuum-whitepaper&utm_content=cta-1",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Silicon Valley, Seen from Beijing (13 minute read)",
+      "url": "https://crossingriver.substack.com/p/silicon-valley-seen-from-beijing?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset (2 minute read)",
+      "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Are Harnesses Worth the Cost? (25 minute read)",
+      "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "The Rise of DeployCos (8 minute read)",
+      "url": "https://www.tanayj.com/p/the-rise-of-deploycos?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Claude, don't touch my lump (18 minute read)",
+      "url": "https://www.experimental-history.com/p/claude-dont-touch-my-lump?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store (3 minute read)",
+      "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/?utm_source=tldrnewsletter",
+      "source_id": "tldr-tech",
+      "source_name": "TLDR Tech",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Add AuthKit to your existing app with one command (Sponsor)",
+      "url": "https://github.com/workos/cli?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q42026#installation",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "npx workos@latest install",
+      "url": "https://github.com/workos/cli?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q42026#installation",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Rewinding the Exponential: How We Keep Hardware Usage Down (12 minute read)",
+      "url": "https://blog.cloudflare.com/rewinding-the-exponential?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Redesigning Source Control at Anthropic (14 minute read)",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "A Year of Fast Apply: The Path to 10k Tokens per Second (13 minute read)",
+      "url": "https://relace.ai/old/blog/relace-apply-3?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Recreational Programming (5 minute read)",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "How to Be More Ambitious: A Tutorial for Humans with Models (10 minute read)",
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "AI agents are the primary readers of Mintlify-powered sites. (Sponsor)",
+      "url": "https://www.mintlify.com/state-of-knowledge?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=oct2026&amp;utm_content=primary_1020_cta",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Read the report",
+      "url": "https://www.mintlify.com/state-of-knowledge?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=oct2026&utm_content=primary_1020_cta",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "TanStack Start 1.0 Is Stable (10 minute read)",
+      "url": "https://tanstack.com/blog/tanstack-start-1-0?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Gemini 4 Argon (Website)",
+      "url": "https://deepmind.google/models/gemini/?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Frontier Models for Every Robot: Announcing the Pi API Beta (4 minute read)",
+      "url": "https://www.pi.website/blog/api-beta?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "The “Alien” Economics of AI Monetization (6 minute read)",
+      "url": "https://stripe.com/blog/economics-of-ai-monetization?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "OpenAI Engineer Arrested over Alleged Conference Room Bugging (5 minute read)",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Are Harnesses Worth the Cost? (20 minute read)",
+      "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Give your agent a billion products to shop from (Sponsor)",
+      "url": "https://shop.dev/",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "The Rise of DeployCos (7 minute read)",
+      "url": "https://www.tanayj.com/p/the-rise-of-deploycos?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Pulse Local (Website)",
+      "url": "https://pulseos.finance/?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "I Posted to HN, and Then My Website Was Flooded with AI Bot Traffic (3 minute read)",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Bifrost (GitHub Repo)",
+      "url": "https://github.com/maximhq/bifrost?utm_source=tldrdev",
+      "source_id": "tldr-webdev",
+      "source_name": "TLDR WebDev",
+      "category": "frontend",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Governance Sets the Ceiling on Your Entire AI Security Program (Sponsor)",
+      "url": "https://www.sans.org/go/2026-ai-govern-field-guide?utm_source=TLDR&amp;utm_medium=Sponsored_Content&amp;utm_campaign=AI_Security_Maturity_Model_eBook_2026&amp;utm_content=SP_AI_GovernFieldGuide_10.14.26_header_governance_sets_ceiling&amp;utm_term=2026-10-14_tldr_ai&amp;utm_goal=Leads&amp;utm_rdetail=Global&amp;utm_type=Global_Campaign",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "⬇️ Get the Govern Field Guide",
+      "url": "https://www.sans.org/go/2026-ai-govern-field-guide?utm_source=TLDR&utm_medium=Sponsored_Content&utm_campaign=AI_Security_Maturity_Model_eBook_2026&utm_content=SP_AI_GovernFieldGuide_10.14.26_body_intro_govern_field_guide&utm_term=2026-10-14_tldr_ai&utm_goal=Leads&utm_rdetail=Global&utm_type=Global_Campaign",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "AI Security Maturity Model eBook",
+      "url": "https://www.sans.org/mlp/2026-ai-security-maturity-model-ebook?utm_source=TLDR&utm_medium=Sponsored_Content&utm_campaign=AI_Security_Maturity_Model_eBook_2026&utm_content=SP_AI_MaturityModel_10.14.26_body_outro_ai_security_maturity_model&utm_term=2026-10-14_tldr_ai&utm_goal=Leads&utm_rdetail=Global&utm_type=Global_Campaign",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "SANS AI security research, webcasts, and training",
+      "url": "https://www.sans.org/artificial-intelligence?utm_source=TLDR&utm_medium=Sponsored_Content&utm_campaign=AI_Security_Maturity_Model_eBook_2026&utm_content=SP_AI_Research_10.14.26_cta_sans_ai_security&utm_term=2026-10-14_tldr_ai&utm_goal=Leads&utm_rdetail=Global&utm_type=Global_Campaign",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "OpenAI Employee Arrested Over Hidden Recording Device (2 minute read)",
+      "url": "https://x.com/OpenAINewsroom/status/2110095403198849132?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Gemini 4 Argon Lands on Google Cloud (3 minute read)",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident (14 minute read)",
+      "url": "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "How Anthropic's Dynamic Workflows Coordinate Claude Agents (6 minute read)",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "LFM2.5-24B-A2B (7 minute read)",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform (17 minute read)",
+      "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Frontier Models for Every Robot (6 minute read)",
+      "url": "https://www.pi.website/blog/api-beta?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "OpenCode 2.0 (6 minute read)",
+      "url": "https://anoma.ly/notes/opencode-2-0/?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Ramp Glass (4 minute read)",
+      "url": "https://x.com/eglyman/status/2110007713396613568?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Character.ai Filed for Chapter 11 Bankruptcy (2 minute read)",
+      "url": "https://blog.character.ai/an-update-on-character-ai/?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Your AI has a business context problem (Sponsor)",
+      "url": "https://ad.doubleclick.net/ddm/trackclk/N2655160.3973022TLDR/B36343267.456171875;dc_trk_aid=653381657;dc_trk_cid=267102495;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "See how Genie closes the context gap",
+      "url": "https://links.tldrnewsletter.com/YqxP25",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "PSA: Starting today, GPT 6.1 Sol has a default context window of 500k (1 minute read)",
+      "url": "https://threadreaderapp.com/thread/2109543080609165508.html?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Moondream is joining Prime Intellect (4 minute read)",
+      "url": "https://www.primeintellect.ai/blog/moondream?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription (2 minute read)",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Drama 3 (Website)",
+      "url": "https://fish.audio/drama-3?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "Introducing CLiF: Continual Learning from Full-Stack Trajectories (8 minute read)",
+      "url": "https://www.copilotkit.ai/blog/introducing-clif?utm_source=tldrai",
+      "source_id": "tldr-ai",
+      "source_name": "TLDR AI",
+      "category": "ai",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "AWS2026년 10월 15일데브옵스ParallelCluster 잘 쓰고 있는데, 왜 AWS PCS인가(1부) — 관리형 Slurm의 가치와 비용 구조AWS PCS는 Slurm 컨트롤러 운영을 AWS에 맡겨 HPC 클러스터의 패치·장애 대응 부담을 줄입니다.\n추가 관리 요금은 가동률, 커스터마이징 요구, 중단 손실을 포함한 TCO로 판단해야 합니다.#AWS PCS#ParallelCluster000",
+      "url": "https://www.velopers.kr/post/9451",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "토스2026년 10월 15일프론트엔드토스뱅크가 패키지를 관리하는 방식 #1: 패키지를 ESM으로만 제공하기로 했어요ESM·CJS 이중 배포에서 발생하는 상태 분리와 타입 누락 문제를 분석했습니다. 사내 패키지를 ESM-only로 전환해 관리와 디버깅 복잡도를 줄였습니다.#ESM#CommonJS300",
+      "url": "https://www.velopers.kr/post/9452",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "채널톡2026년 10월 15일기타채널톡의 FDE는 어떤 일을 할까?FDE가 고객 요구를 PoC로 빠르게 검증하고 제품화 근거로 전환한 과정을 소개했습니다. 콜 캠페인에서 중복 발신 방지와 회선 용량 제어를 우선해 운영했습니다.#FDE#PoC1200",
+      "url": "https://www.velopers.kr/post/9446",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "넥스트리2026년 10월 15일백엔드모던 백엔드 - 문법 & 성능 개선(2)Java 25의 유연한 생성자 본문 규칙과 상속 초기화 순서의 주의점을 설명했습니다. 컴팩트 객체 헤더 기반의 메모리·GC 성능 진단 기준도 다뤘습니다.#Java#JVM200",
+      "url": "https://www.velopers.kr/post/9449",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "넥스트리2026년 10월 15일백엔드모던 백엔드- 문법 & 성능 개선(1)Java 25의 생성자, 모듈 임포트, 기본형 패턴 매칭 문법을 소개합니다.\\nCompact Object Headers 기반 HotSpot JVM 메모리 최적화도 살펴봅니다.#Java#HotSpot JVM400",
+      "url": "https://www.velopers.kr/post/9450",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "코드를 모르는 기획자의 Product Engineer 도전 : 준비와 소통으로 서버부터 앱까지요기요2026년 10월 15일AI코드를 모르는 기획자의 Product Engineer 도전 : 준비와 소통으로 서버부터 앱까지기획자가 Claude Code와 설계 계획서를 활용해 서버부터 앱까지 광고 기능을 출시한 경험을 공유했습니다.\\n도메인 지식, 담당자 리뷰, AI 결과 검증과 오류 해석 환경의 중요성을 강조합니다.#Claude#Android300",
+      "url": "https://www.velopers.kr/post/9447",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "데이터 쿼리 AI 에이전트 — SQL 몰라도 돼! 사내 데이터 직접 꺼내 쓰는 방법파수 AI2026년 10월 15일AI데이터 쿼리 AI 에이전트 — SQL 몰라도 돼! 사내 데이터 직접 꺼내 쓰는 방법조직 데이터 맥락을 반영해 자연어 질문을 SQL 쿼리로 바꾸는 Data Query ACE를 소개했습니다.\\nPrivate 환경과 접근 권한 통제로 민감한 데이터 조회를 지원합니다.#Data Query ACE#SQL700",
+      "url": "https://www.velopers.kr/post/9445",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "[보안] 달라지는 공공 클라우드 보안 기준｜꼭 확인해야 할 3가지 변화네이버 클라우드 플랫폼2026년 10월 15일데브옵스[보안] 달라지는 공공 클라우드 보안 기준｜꼭 확인해야 할 3가지 변화공공기관 클라우드 도입에 적용되는 국가 보안 가이드라인 개정 방향을 소개했습니다. 정보 등급, 민간 클라우드 이용 범위, 보안 검증 체계 변화를 확인해야 합니다.#cloud#보안900",
+      "url": "https://www.velopers.kr/post/9443",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "가비아2026년 10월 15일데브옵스PaaS란? 서비스형 플랫폼의 개념·구조·과금 방식 정리PaaS의 책임 경계와 배포·실행·모니터링 구성, 과금 방식을 정리했습니다.\\n도입 시 런타임 지원 범위, 벤더 종속, 보안 책임, 확장 비용을 확인해야 합니다.#PaaS#CI/CD700",
+      "url": "https://www.velopers.kr/post/9444",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "뱅크샐러드2026년 10월 15일아키텍처AI 코딩 시대, DDD가 더 필요해진 이유Go 서비스의 핸들러 중심 구조를 DDD-lite와 Clean Architecture로 리팩토링한 과정을 소개했습니다. 명확한 경계가 AI 코딩의 탐색·리뷰 범위도 줄인다고 설명합니다.#Go#DDD900",
+      "url": "https://www.velopers.kr/post/9448",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "에이아이트릭스의 일하는 방식, 어떻게 달라졌을까요?AITRICS2026년 10월 14일기타에이아이트릭스의 일하는 방식, 어떻게 달라졌을까요?조직 성장에 맞춰 월 단위 선택적 근로시간제와 2시간 단위 반반차를 도입했습니다. 월 1회 1 on 1으로 업무 우선순위와 어려움을 정기적으로 나눕니다.#문화#회의1600",
+      "url": "https://www.velopers.kr/post/9437",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "에이아이트릭스만의 공간이 만들어지기까지, 삼성동 오피스 프로젝트AITRICS2026년 10월 14일기타에이아이트릭스만의 공간이 만들어지기까지, 삼성동 오피스 프로젝트구성원 증가로 기존 오피스의 회의·휴게 공간과 동선 문제가 커졌습니다. 이를 배경으로 삼성동 오피스 프로젝트를 소개합니다.#오피스1500",
+      "url": "https://www.velopers.kr/post/9438",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "넥스트리2026년 10월 14일백엔드모던 백엔드 - 컨텍스트 전파 리팩토링(3)게시판 프로젝트의 ThreadLocal 기반 컨텍스트 전파를 Java 25 ScopedValue로 리팩토링했습니다.\nServlet Filter와 StructuredTaskScope를 수정해 수동 컨텍스트 관리 코드를 제거합니다.#Java#ThreadLocal1200",
+      "url": "https://www.velopers.kr/post/9439",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "넥스트리2026년 10월 14일백엔드모던 백엔드 - 컨텍스트 전파 리팩토링(2)StructuredTaskScope와 ScopedValue로 병렬 작업의 컨텍스트 자동 상속을 설명했습니다.\\n실행 경계별 바인딩과 하위 컴포넌트 변경 없는 리팩토링 전략을 다뤘습니다.#Java#StructuredTaskScope2100",
+      "url": "https://www.velopers.kr/post/9440",
+      "source_id": "velopers",
+      "source_name": "Velopers",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "anthropics/claude-plugins-official: Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "JuliusBrussee/caveman: 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "debpalash/VoiceStudio: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "ruvnet/ruflo: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "mksglu/context-mode: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "url": "https://github.com/mksglu/context-mode",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra: Ghidra is a software reverse engineering (SRE) framework",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "lightseekorg/tokenspeed: TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    },
+    {
+      "title": "xerj-org/xerj: XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "url": "https://github.com/xerj-org/xerj",
+      "source_id": "github-trending",
+      "source_name": "GitHub Trending",
+      "category": "general",
+      "published": "2026-10-14T23:29:25.837962+00:00"
+    }
+  ]
+}
